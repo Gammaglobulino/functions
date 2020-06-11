@@ -1,0 +1,1 @@
+D:\RustProjects\functions\target\debug\functions.exe: D:\RustProjects\functions\src\closure.rs D:\RustProjects\functions\src\higher_order_functions.rs D:\RustProjects\functions\src\main.rs D:\RustProjects\functions\src\methods.rs
